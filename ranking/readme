@@ -1,0 +1,9 @@
+Implements a modified Google PageRank algorithm for ranking sports teams
+(ref: https://www.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr06-19.pdf) 
+
+Run with:
+python GoogleSportRank.py -d <score_data_file>   (-other options)
+
+Sample score data file in directory: NFL_scores_2015_2016.txt
+See ssample file for formatting
+
